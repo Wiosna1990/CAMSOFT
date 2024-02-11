@@ -1,0 +1,22 @@
+Acard;75.0;30;9.99
+Alka-Seltzer;324.0;10;17.99
+Allegra;120.0;10;15.99
+Alugastrin;340.0;20;10.99
+Apap;500.0;12;12.12
+Aviomarin;50.0;10;22.99
+Biotebal;5.0;30;19.99
+Buscopan;10.0;10;14.99
+Codipar;500.0;24;16.99
+Dulcobis;5.0;20;18.99
+Excedrin MigraStop;250.0;10;19.99
+Gripex;325.0;12;18.99
+Hascovir Control;200.0;25;21.5
+Ibuprom;200.0;10;8.99
+Ibuprom Max;400.0;12;10.99
+Mel;7.5;20;15.99
+No-Spa;40.0;10;9.99
+Opokan;7.5;10;10.9
+Radirex;513.5;10;9.99
+Tabex;1.5;100;60.99
+Thiocodin;15.0;10;13.99
+Zyx Bio;5.0;7;12.5
